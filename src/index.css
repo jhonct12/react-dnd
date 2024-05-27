@@ -1,0 +1,10 @@
+li {
+  border: 2px solid salmon !important;
+  padding: 0.5rem !important;
+}
+
+ul {
+  list-style: none;
+  padding: 1rem;
+  border: 2px solid chocolate;
+}
